@@ -142,6 +142,8 @@ WHERE
 # github api 사용하기
 
 ```
+출처 : https://github.com/anuraghazra/github-readme-stats
+
 
 ![jeongsu github stats](https://github-readme-stats.vercel.app/api?username=ParkJeongSu&show_icons=true&theme=merko)
 
