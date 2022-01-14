@@ -82,3 +82,16 @@ All bold and italic : ***All this text is important***
 >	>	> This is a third blockqute.
 
 ------------------
+
+# Code 사용법
+
+```
+```
+This is code Block.
+```
+```
+> 실행결과
+
+```
+This is code Block.
+```
