@@ -57,9 +57,13 @@ All bold and italic : ***All this text is important***
 > 실행결과
 
 **This is bold Text**
+
 *This Text is italicized*
+
 ~~This was mistaken text~~
+
 **This text is _extremely_ important**
+
 ***All this text is important***
 
 ------------------
