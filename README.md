@@ -138,3 +138,19 @@ DUAL
 WHERE
 1=1
 ```
+
+# github api 사용하기
+
+```
+
+![jeongsu github stats](https://github-readme-stats.vercel.app/api?username=ParkJeongSu&show_icons=true&theme=merko)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJeongSu&layout=compact&exclude_repo=ParkJeongSu.github.io,Yun-Blog,intellij-settings)](https://github.com/anuraghazra/github-readme-stats)
+
+
+```
+
+![jeongsu github stats](https://github-readme-stats.vercel.app/api?username=ParkJeongSu&show_icons=true&theme=merko)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParkJeongSu&layout=compact&exclude_repo=ParkJeongSu.github.io,Yun-Blog,intellij-settings)](https://github.com/anuraghazra/github-readme-stats)
