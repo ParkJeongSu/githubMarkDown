@@ -85,6 +85,8 @@ All bold and italic : ***All this text is important***
 
 # Code 사용법
 
+* ```을 사용하는 방법
+
 <pre>
 <code>
 ```
@@ -98,3 +100,20 @@ This is code Block.
 ```
 This is code Block.
 ```
+
+* pre 와 code 태그를 사용하는 방법
+```
+<pre>
+<code>
+
+This is code Block.
+</code>
+</pre>
+```
+
+<pre>
+<code>
+
+This is code Block.
+</code>
+</pre>
