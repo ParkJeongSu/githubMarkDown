@@ -105,7 +105,6 @@ This is code Block.
 ```
 <pre>
 <code>
-
 This is code Block.
 </code>
 </pre>
@@ -113,7 +112,29 @@ This is code Block.
 
 <pre>
 <code>
-
 This is code Block.
 </code>
 </pre>
+
+* 문법 강조기능
+<pre>
+<code>
+```sql
+SELECT
+*
+FROM
+DUAL
+WHERE
+1=1
+```
+</code>
+</pre>
+
+```sql
+SELECT
+*
+FROM
+DUAL
+WHERE
+1=1
+```
