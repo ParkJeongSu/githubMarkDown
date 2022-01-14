@@ -85,7 +85,7 @@ All bold and italic : ***All this text is important***
 
 # Code 사용법
 
-* ```을 사용하는 방법
+* ("```")을 사용하는 방법
 
 <pre>
 <code>
