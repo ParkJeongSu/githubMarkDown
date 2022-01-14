@@ -1,6 +1,6 @@
 # How to use markdown
 
-
+------------------
 # Header
 
 ```
@@ -15,6 +15,8 @@ This is an H1
 
 This is an H1
 ========
+
+------------------
 
 ```
 "#" 를 사용하는 방법
@@ -36,3 +38,5 @@ This is an H1
 #### This is an H4
 ##### This is an H5
 ###### This is an H6
+
+------------------
