@@ -85,13 +85,14 @@ All bold and italic : ***All this text is important***
 
 # Code 사용법
 
-```
-
+<pre>
+<code>
 ```
 This is code Block.
 ```
+</code>
+</pre>
 
-```
 > 실행결과
 
 ```
